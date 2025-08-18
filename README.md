@@ -20,3 +20,6 @@ support custom baseurl apikey model set, vscode extension
     "superdesign.aiModel": "GLM-4.5"
 }
 ```
+
+![display](./Snipaste_2025-08-18_20-16-23.png)
+
