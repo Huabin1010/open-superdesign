@@ -21,5 +21,7 @@ support custom baseurl apikey model set, vscode extension
 }
 ```
 
+after set restart extension by ctrl+shift+p -> restart extension
+
 ![display](./Snipaste_2025-08-18_20-16-23.png)
 
